@@ -1,0 +1,15 @@
+[submodule "source/gin-vue-admin"]
+	path = source/gin-vue-admin
+	url = https://github.com/flipped-aurora/gin-vue-admin
+[submodule "source/gohub"]
+	path = source/gohub
+	url = https://github.com/summerblue/gohub
+[submodule "source/nats-server"]
+	path = source/nats-server
+	url = https://github.com/nats-io/nats-server
+[submodule "source/nsq"]
+	path = source/nsq
+	url = https://github.com/nsqio/nsq
+[submodule "source/k8s-client-go"]
+	path = source/k8s-client-go
+	url = https://github.com/kubernetes/client-go
