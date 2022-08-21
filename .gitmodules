@@ -13,3 +13,9 @@
 [submodule "source/k8s-client-go"]
 	path = source/k8s-client-go
 	url = https://github.com/kubernetes/client-go
+[submodule "source/kafka-go"]
+	path = source/kafka-go
+	url = https://github.com/segmentio/kafka-go.git
+[submodule "source/grpc-go"]
+	path = source/grpc-go
+	url = https://github.com/autumn0632/grpc-go.git
